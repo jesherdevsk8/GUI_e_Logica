@@ -1,0 +1,10 @@
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\bin\Debug\Controle.DataHora.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\bin\Debug\Controle.DataHora.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\bin\Debug\Controle.DataHora.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.Frm_load.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 18.05.2021\Controle.DataHora\obj\Debug\Controle.DataHora.pdb

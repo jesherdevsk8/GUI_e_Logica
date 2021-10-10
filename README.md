@@ -1,2 +1,2 @@
-# GUI_e_Logica
- Exercícios de interface e lógica de programação
+# GUI(Graphical User Interface) e Lógicas com Csharp
+ Exercícios básicos de interface e lógica de programação

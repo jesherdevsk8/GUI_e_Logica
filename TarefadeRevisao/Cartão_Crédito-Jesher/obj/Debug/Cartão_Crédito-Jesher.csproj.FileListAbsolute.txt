@@ -1,0 +1,30 @@
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito_Jesher.Form1.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito_Jesher.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito_Jesher.Form1.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito_Jesher.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Junho\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.pdb
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.exe.config
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.exe
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\bin\Debug\Cartão_Crédito-Jesher.pdb
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito_Jesher.Form1.resources
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito_Jesher.Properties.Resources.resources
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.exe
+C:\Users\Jesher\Desktop\github\Projetos Antigos C#\Exercicio-de-Logica-e-Interface\Tarefa Revisão\Cartão_Crédito-Jesher\obj\Debug\Cartão_Crédito-Jesher.pdb

@@ -1,0 +1,20 @@
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\bin\Debug\Desafio Jesher.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\bin\Debug\Desafio Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\bin\Debug\Desafio Jesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio_Jesher.frm_Cursos.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio_Jesher.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\bin\Debug\Desafio Jesher.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\bin\Debug\Desafio Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\bin\Debug\Desafio Jesher.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio_Jesher.frm_Cursos.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio_Jesher.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\1º Modulo\TP - TOF\Maio\aula 25.05.2021\Desafio Jesher\obj\Debug\Desafio Jesher.pdb
